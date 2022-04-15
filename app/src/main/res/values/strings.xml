@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="title_appears">Title appears</string>
+    <string name="text_appears">Text appears</string>
+</resources>
