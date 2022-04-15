@@ -1,2 +1,2 @@
 # DiaryApp
-A diary app implemented using lotlin, dagger2, room database
+A diary app implemented using kotlin, dagger2, room database
